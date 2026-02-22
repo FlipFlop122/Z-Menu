@@ -13,6 +13,10 @@ Installation:
   Step 3:
     Put the ZMenu.dll into the plugins folder!
 
+Usage:
+
+  You can toggle the menu by the DELETE key!
+  
 Issues that may occur:
   If you can`t see the plugins folder you have to run among us(after you extracted the contents).
 
